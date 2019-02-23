@@ -1,0 +1,12 @@
+{
+  "name": "Test",
+  "version": "0.0.0",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2"
+  },
